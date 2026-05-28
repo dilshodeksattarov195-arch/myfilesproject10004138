@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "smsvalidate",
+        "uuid": 13601606,
+        "checksum": "pbmm3i"
+    },
+    "settings": {
+        "retries": 3,
+        "enabled": true,
+        "mode": "debug"
+    }
+}
